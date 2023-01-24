@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ConsoleAppTeachers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ConsoleAppTeachers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ConsoleAppTeachers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ConsoleAppTeachers.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ConsoleAppTeachers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\bin\Debug\net6.0\ConsoleAppTeachers.exe
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\bin\Debug\net6.0\ConsoleAppTeachers.deps.json
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\bin\Debug\net6.0\ConsoleAppTeachers.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\bin\Debug\net6.0\ConsoleAppTeachers.dll
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\bin\Debug\net6.0\ConsoleAppTeachers.pdb
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ConsoleAppTeachers.dll
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\refint\ConsoleAppTeachers.dll
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ConsoleAppTeachers.pdb
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ConsoleAppTeachers.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleAppTeachers\ConsoleAppTeachers\obj\Debug\net6.0\ref\ConsoleAppTeachers.dll
